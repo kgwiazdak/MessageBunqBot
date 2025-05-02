@@ -1,0 +1,4 @@
+bunq_sdk 
+openai
+requests
+discord
